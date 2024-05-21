@@ -1,0 +1,44 @@
+ItemID,Description,Category,RegularPrice,CateringPrice
+1,Classic Pierogi,Pierogi,10.00,18.00
+2,Cheese and Potato Pierogi,Pierogi,11.00,20.00
+3,Meat Pierogi,Pierogi,12.00,22.00
+4,Mushroom and Sauerkraut Pierogi,Pierogi,11.00,20.00
+5,Spinach and Cheese Pierogi,Pierogi,12.00,22.00
+6,Blueberry Pierogi,Pierogi,10.00,18.00
+7,Sweet Cheese Pierogi,Pierogi,11.00,20.00
+8,Apple and Cinnamon Pierogi,Pierogi,10.00,18.00
+9,Strawberry Pierogi,Pierogi,10.00,18.00
+10,Ruskie Pierogi,Pierogi,12.00,22.00
+11,Gołąbki (Stuffed Cabbage Rolls),Main,15.00,28.00
+12,Bigos (Hunter's Stew),Main,17.00,30.00
+13,Placki Ziemniaczane (Potato Pancakes),Main,12.00,22.00
+14,Kiełbasa (Polish Sausage),Main,14.00,25.00
+15,Schabowy (Pork Cutlet),Main,18.00,32.00
+16,Zrazy (Beef Rolls),Main,20.00,36.00
+17,Rosół (Chicken Soup),Soup,10.00,18.00
+18,Żurek (Sour Rye Soup),Soup,12.00,22.00
+19,Barszcz (Beet Soup),Soup,11.00,20.00
+20,Krupnik (Barley Soup),Soup,10.00,18.00
+21,Kapusta Kiszona (Sauerkraut),Side,8.00,14.00
+22,Mizeria (Cucumber Salad),Side,7.00,13.00
+23,Marchewka z Groszkiem (Carrots and Peas),Side,6.00,12.00
+24,Buraczki (Beetroot Salad),Side,8.00,14.00
+25,Fasolka po Bretońsku (Beans with Bacon),Side,9.00,16.00
+26,Bigos (Hunter's Stew),Side,10.00,18.00
+27,Kiełbasa (Polish Sausage),Side,9.00,16.00
+28,Pierogi Sampler,Side,12.00,20.00
+29,Kartofle (Potatoes),Side,7.00,13.00
+30,Nalewki (Polish Liqueurs),Side,10.00,18.00
+31,Sernik (Cheesecake),Dessert,7.00,12.00
+32,Kołaczki (Polish Cookies),Dessert,5.00,9.00
+33,Pączki (Polish Donuts),Dessert,6.00,10.00
+34,Kremówka (Pope's Cake),Dessert,8.00,14.00
+35,Plum Cake,Dessert,7.00,12.00
+36,Apple Szarlotka (Apple Pie),Dessert,9.00,16.00
+37,Makowiec (Poppy Seed Cake),Dessert,8.00,14.00
+38,Chruściki (Angel Wings),Dessert,6.00,11.00
+39,Galaretka (Jelly Dessert),Dessert,5.00,9.00
+40,Kisiel (Fruit Pudding),Dessert,7.00,13.00
+41,Cherry Kompot,Kompot,3.00,5.00
+42,Apple Kompot,Kompot,3.00,5.00
+43,Rhubarb Kompot,Kompot,3.00,5.00

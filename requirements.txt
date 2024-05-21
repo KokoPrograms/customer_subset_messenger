@@ -1,0 +1,8 @@
+pandas
+sqlite
+streamlit
+replicate
+plotly
+humanize
+faker
+matplotlib

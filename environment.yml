@@ -1,0 +1,14 @@
+name: subset-messenger
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - sqlite
+  - streamlit
+  - replicate
+  - plotly
+  - humanize
+  - faker
+  - matplotlib

@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# README.txt
-
 ## Targeted Marketing Messenger
 
 ### Submission for the Snowflake Arctic & Streamlit "The Future of AI is Open" Hackathon
@@ -79,7 +76,8 @@ Targeted Marketing Messenger is an innovative application designed to enhance yo
 3. Create the conda environment: `conda env create -f environment.yml`
 4. Activate the conda environment: `conda activate subset-messenger`
 5. Generate new sales data (optional): `python3 generate_data.py`
-6. Run the Streamlit app: `streamlit run app.py`
+6. Update REPLICATE_API_TOKEN in .streamlit/secrets.toml with your own.
+7. Run the Streamlit app: `streamlit run app.py`
 
 ### Acknowledgments
 
@@ -91,7 +89,3 @@ Feel free to contact me at kamiltdembinski@gmail.com.
 
 Thanks for checking out this demo!
 - Kamil
-=======
-# subset-messenger
-Snowflake Arctic &amp; Streamlit "The Future of AI is Open" Hackathon Submission
->>>>>>> origin/main
